@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="major">
+        <item>전체</item>
+        <item>IT융합응용공학과</item>
+        <item>건설환경공학부</item>
+        <item>건설환경공학부 도시·교통공학전공</item>
+        <item>건설환경공학부 토목환경공학전공</item>
+        <item>건축학과</item>
+        <item>건축학부</item>
+        <item>건축학부 건축공학전공</item>
+        <item>건축학부 건축학전공</item>
+        <item>광공학과</item>
+        <item>그린스마트건축공학과</item>
+        <item>금형공학과</item>
+        <item>금형설계공학과</item>
+        <item>금형설계공학과(주)</item>
+        <item>기계자동차공학과</item>
+        <item>기계자동차공학부</item>
+        <item>기계자동차공학부 금형설계공학전공</item>
+        <item>기계자동차공학부 기계공학전공</item>
+        <item>기계자동차공학부 기계설계공학전공</item>
+        <item>기계자동차공학부 기계시스템공학전공</item>
+        <item>기계자동차공학부 반도체기계공학전공</item>
+        <item>기계자동차공학부 자동차공학전공</item>
+        <item>기계자동차공학부(주)</item>
+        <item>나노소재응용공학부</item>
+        <item>나노소재응용공학부 고분자공학전공</item>
+        <item>나노소재응용공학부 재료공학전공</item>
+        <item>도시·교통공학과</item>
+        <item>도시융합시스템공학과</item>
+        <item>디자인컨버전스학과</item>
+        <item>디지털융합금형공학과</item>
+        <item>메카트로닉스공학과</item>
+        <item>미래자동차공학과</item>
+        <item>반도체공정공학과</item>
+        <item>반도체기계공학과</item>
+        <item>사회환경공학과</item>
+        <item>산업경영공학과</item>
+        <item>산업공학과</item>
+        <item>산업공학과</item>
+        <item>산업디자인공학부</item>
+        <item>산업디자인공학부 시각정보디자인전공</item>
+        <item>산업디자인공학부 시각정보디자인트랙</item>
+        <item>산업디자인공학부 제품디자인전공</item>
+        <item>산업디자인공학부 제품디자인트랙</item>
+        <item>산업시스템공학과</item>
+        <item>산업시스템공학과(주)</item>
+        <item>생산기계공학과</item>
+        <item>생산기술공학과</item>
+        <item>소프트웨어응용공학과</item>
+        <item>소프트웨어학과</item>
+        <item>스마트인프라공학과</item>
+        <item>스마트정보기술공학과</item>
+        <item>신소재공학부</item>
+        <item>신소재공학부 고분자공학전공</item>
+        <item>신소재공학부 금속재료공학전공</item>
+        <item>신소재공학부 나노재료공학전공</item>
+        <item>신소재공학부 신소재시스템공학전공</item>
+        <item>신소재공학부 재료공학전공</item>
+        <item>영상광정보공학부</item>
+        <item>영상광정보공학부 광공학전공</item>
+        <item>영상광정보공학부 영상학전공</item>
+        <item>응용소재공학과</item>
+        <item>자동차부품소재전공</item>
+        <item>자동차생산공학과</item>
+        <item>전기전자공학과</item>
+        <item>전기전자응용공학과</item>
+        <item>전기전자제어공학부</item>
+        <item>전기전자제어공학부 나노정보공학전공</item>
+        <item>전기전자제어공학부 반도체정보공학전공</item>
+        <item>전기전자제어공학부 전기공학전공</item>
+        <item>전기전자제어공학부 전자공학·나노정보공학전공</item>
+        <item>전기전자제어공학부 전자공학·나노정보공학전공 나노정보공학트랙</item>
+        <item>전기전자제어공학부 전자공학·나노정보공학전공 전자공학트랙</item>
+        <item>전기전자제어공학부 전자공학전공</item>
+        <item>전기전자제어공학부 제어계측공학전공</item>
+        <item>전기전자제어공학부(주)</item>
+        <item>정보통신공학과</item>
+        <item>정보통신공학부</item>
+        <item>정보통신공학부 나노정보공학전공</item>
+        <item>정보통신공학부 스마트정보기술공학전공</item>
+        <item>정보통신공학부 전파공학전공</item>
+        <item>정보통신공학부 정보통신공학전공</item>
+        <item>정보통신공학부 컴퓨터전공</item>
+        <item>지능형모빌리티공학과</item>
+        <item>컴퓨터공학과</item>
+        <item>컴퓨터공학부</item>
+        <item>컴퓨터공학부 멀티미디어공학전공</item>
+        <item>컴퓨터공학부 멀티미디어전공</item>
+        <item>컴퓨터공학부 소프트웨어전공</item>
+        <item>컴퓨터공학부 컴퓨터공학전공</item>
+        <item>컴퓨터공학부 컴퓨터소프트웨어공학전공</item>
+        <item>컴퓨터공학부 컴퓨터전공</item>
+        <item>화학공학부</item>
+        <item>화학공학부 공업화학전공</item>
+        <item>화학공학부 화학공학심화전공</item>
+        <item>화학공학부 화학공학전공</item>
+        <item>환경공학과</item>
+    </string-array>
+    <string-array name="term">
+        <item>1학기</item>
+        <item>하계학기</item>
+        <item>2학기</item>
+        <item>동계학기</item>
+    </string-array>
+    <string-array name="grade">
+        <item>전체</item>
+        <item>1학년</item>
+        <item>2학년</item>
+        <item>3학년</item>
+        <item>4학년</item>
+        <item>5학년</item>
+    </string-array>
+    <string-array name="universityArea">
+        <item>전체</item>
+        <item>전공필수</item>
+        <item>전공기초</item>
+        <item>전공선택</item>
+    </string-array>
+</resources>
